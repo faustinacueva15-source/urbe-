@@ -1,0 +1,6 @@
+{
+  "name": "Urbe",
+  "description": "Plataforma premium con mapa interactivo, negocios verificados por admin, gestión de menú y estados en tiempo real, pasarela de pagos segura y bolsa de empleo joven.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
